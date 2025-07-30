@@ -47,8 +47,6 @@ Controls
 
 
 
-https://github.com/user-attachments/assets/e32e69d0-9639-45b3-9401-4ffbeeb65252
-
 
 
 
