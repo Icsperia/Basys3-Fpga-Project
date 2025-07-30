@@ -42,3 +42,9 @@ Controls
     Onboard Basys3 buttons are used to move the paddles up and down
 
     The ball moves independently without user input
+
+
+https://github.com/user-attachments/assets/1c3b64c7-8b3c-4b9d-bab7-d09f3a11114e
+
+
+
