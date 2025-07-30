@@ -1,3 +1,2 @@
 # Basys3-Fpga-Project
-I've made an VGA driver for Basys3 FPGA. The resoulion being full hd so I need it to make a PLL with frequency of 148.5 MHz. Then I used the driver to make a mini game in which you have to use 2 walls to doge a bouncing ball. 
-
+I've made an VGA driver for Basys3 FPGA. The resoulion being full hd so I need it to make a PLL with frequency of 148.5 MHz. I've draw 2 rectangles and a circle in which i used to make a mini game in which you need to doge the bouncing cirlce using the rectangulars. The circle is moving without any user input. For that I used the delay module to set the speed of ball. Then i used the same delay module and the fpga buttons to make the rectangles to move up and down. If the ball touch one of the rectangles the ball  will go to initial position.
